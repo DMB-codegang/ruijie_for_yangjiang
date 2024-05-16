@@ -5,7 +5,7 @@
 
 ## 如何使用
 0.路由器以client方式接入校园网  
-1.从发行版下载`ruijie.sh`  
+1.下载`ruijie.sh`  
 2.将`ruijie.sh`上传到openwrt  
 3.执行：
 ```bash
